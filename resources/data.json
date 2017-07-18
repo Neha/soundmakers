@@ -1,0 +1,144 @@
+{
+    "soundData": [{
+        "char": "a",
+        "audio": "resources/sounds/croquet_Ball_Hits.mp3"
+    }, {
+        "char": "b",
+        "audio": "resources/sounds/Metal_Thud.mp3"
+    }, {
+        "char": "c",
+        "audio": "resources/sounds/Metallic_Clank.mp3"
+    }, {
+        "char": "d",
+        "audio": "resources/sounds/Dumpster_Door_hit.mp3"
+
+    }, {
+        "char": "e",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "f",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "g",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "h",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "i",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "j",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "k",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "l",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "m",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "n",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "o",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "p",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "q",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "r",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "s",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "t",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "u",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "v",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "w",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "x",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "y",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "z",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "1",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "2",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "3",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "4",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "5",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "6",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "7",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "8",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "9",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }, {
+        "char": "0",
+        "audio": "resources/sounds/Football_Kick_In_Grass.mp3"
+
+    }]
+}

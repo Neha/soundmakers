@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.wrapper{
+    width:80%;
+    margin: 0 auto;
+    background:#eee;
+    min-height: 500px;
+
+}
+
+.textContainer{
+    padding:50px 0 0 0;
+    text-align: center;
+    input{
+        border:0;
+        border-bottom:1px solid #ccc;
+            width: 130px;
+    height: 46px;
+        line-height: 80px;
+        font-size:40px;
+        text-align:center;
+    }
+
+}
+button{
+             width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background: #000;
+    line-height: 40px;
+    color: #fff;
+    font-size: 24px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    }
